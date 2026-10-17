@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "ipg",
+  "source_name": "Pusat Sumber Institut Pendidikan Guru Malaysia (KPM)",
+  "source_base_url": "https://ipgm.moe.edu.my/library",
+  "terms_url": "https://ipgm.moe.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "ipg-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T12-57-05Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T12:57:22.416Z",
+  "finished_at": "2026-10-17T12:57:22.416Z",
+  "record_count": 240000,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/ipg; contact@pustakaterbuka.org)",
+  "notes": "IPG harvest finished. Total: 240000 records."
+}

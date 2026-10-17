@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "source_code": "ipg",
+  "agency_code": "IPG",
+  "run_id": "2026-10-17T03-20-10Z",
+  "chunk_index": 1,
+  "total_records": 500,
+  "completed_at": "2026-10-17T03:20:10.987Z",
+  "harvester": {
+    "name": "ipg-koha-harvester",
+    "version": "1.0.0"
+  },
+  "batches": [
+    {
+      "file": "batch_0.xml",
+      "records": 100,
+      "sha256": "1ac83f8d14330e15fcdcb638429aade7686c1d6dd343a64ba73c0da43059f885"
+    },
+    {
+      "file": "batch_1.xml",
+      "records": 100,
+      "sha256": "0e128bafa0f747e7d79ab47c113fd72af9ec06d68e9efaf9f3a32ac63c4b9ff5"
+    },
+    {
+      "file": "batch_2.xml",
+      "records": 100,
+      "sha256": "7d2f90c42d296232c337fc2293f073f87325fab23d1c4eedc47fee291fa2bcde"
+    },
+    {
+      "file": "batch_3.xml",
+      "records": 100,
+      "sha256": "8256c7a61c6f1eab2ef8fccffbc051a9cab137d6939aa2c414fe2851c7e62b26"
+    },
+    {
+      "file": "batch_4.xml",
+      "records": 100,
+      "sha256": "33b595b4f65ddc147f93482e1192a7ac1b43853b5216aee46273deaa6eeacbf1"
+    }
+  ]
+}
